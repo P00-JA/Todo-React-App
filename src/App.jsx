@@ -8,10 +8,6 @@ import { useState } from "react";
 import moment from 'moment';
 import "./App.css";
 
-
-
-
-
 const App = () => {
   const [input, setInput] = useState("");
   const [dateInput,setDate] = useState('');

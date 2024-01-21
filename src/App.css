@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 body{
-    background-image: url("bg.avif");
+    background-image: url("../public/bg.avif");
     background-repeat: no-repeat;
     background-size: 230vh;
 }
