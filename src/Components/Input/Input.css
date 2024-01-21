@@ -1,0 +1,16 @@
+.inputBox{
+    padding: 20px 30px;
+    width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 6px ;
+    background-color: antiquewhite;
+    color: black;
+    box-shadow: inset -5px -5px 12px #494949
+                      5px 5px 12px #121111;
+}
+
+.inputBox:hover{
+   background-image:linear-gradient(to right, rgb(248, 192, 213) , rgb(228, 183, 250)); 
+   color: rgb(1, 79, 53);
+}

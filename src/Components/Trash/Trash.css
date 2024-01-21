@@ -1,0 +1,7 @@
+.fa-solid.fa-trash{
+    color: rgb(67, 66, 66);
+}
+.fa-solid.fa-trash:hover{
+    color: rgb(255, 0, 89);
+    text-shadow: -2px 2px gray;
+}
